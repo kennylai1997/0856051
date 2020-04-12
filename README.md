@@ -1,2 +1,2 @@
 # 0856051
-2020 Software Testing Lab4
+[![Build Status](https://travis-ci.com/kennylai1997/0856051.svg?branch=master)](https://travis-ci.com/kennylai1997/0856051)
