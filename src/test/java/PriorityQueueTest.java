@@ -78,7 +78,7 @@ public class PriorityQueueTest {
     @Test(expected = NullPointerException.class)
     public void testoffer()
     {
-        pq.offer(20);
+        pq.offer(null);
     }
     
     @Test(expected = IllegalArgumentException.class)
