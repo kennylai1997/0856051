@@ -64,7 +64,7 @@ public class PriorityQueueTest {
         }
         for(Integer j : expected)
         {
-            assertEquals(j, pq.poll());
+            assertEquals(10, pq.poll());
         }
 
     }
