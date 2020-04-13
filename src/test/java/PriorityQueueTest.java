@@ -72,7 +72,7 @@ public class PriorityQueueTest {
     @Test(expected = NullPointerException.class)
     public void testadd()
     {
-        pq.add(10);
+        pq.add(null);
     }
 
     @Test(expected = NullPointerException.class)
